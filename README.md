@@ -16,4 +16,4 @@ I learn a lot of stuff related to data science skill
 - Essential Python for Data Analyst
 - Dashboard
 
-You can find me on Linkin: linkedin.com/in/tanitta-manwong
+You can find me on Linkin: www.linkedin.com/in/tanitta-manwong-093312246
