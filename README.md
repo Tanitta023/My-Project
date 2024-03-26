@@ -1,4 +1,4 @@
-# My-Project
+# My-Portfolio
 Those are my projects when studying data analyst bootcamp by datarockies
 
 # What did I learn from the bootcamp
